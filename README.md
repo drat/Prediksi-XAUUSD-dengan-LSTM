@@ -1,3 +1,5 @@
-# XAUUSD-simple-trend-prediction
-This program is written as a simple try to make a LSTM neural network to predict and compare the trend of XAUUSD in forex 
-I used this timeseries from 2015 to 2019 as a traning set and from the ennd of 2019 to the end of 2020 as a testing set and I used google colab as a suitable platform.
+# Prediksi XAUUSD dengan LSTM
+Program ini ditulis sebagai percobaan sederhana untuk membuat jaringan saraf LSTM untuk memprediksi dan membandingkan tren XAUUSD di forex Saya menggunakan rangkaian waktu ini dari 2015 hingga 2019 sebagai set pelatihan dan dari akhir 2019 hingga akhir 2020 sebagai pengujian set dan saya menggunakan google colab sebagai platform yang sesuai.
+
+Selamat berlatih.
+_drat
